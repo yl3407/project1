@@ -1,0 +1,27 @@
+<html>
+<body>
+<body background="http://s3.amazonaws.com/assets.quintevents.com/events/159/bkgrd/original/NBA-Background.png?1444325319">
+
+<h1 style="text-align:left;color:black;font-size: 30pt">The Result You Are Looking for：</h1>
+
+<table style="text-align:center;font-family:verdana;width:90%;font-size: 20pt; height:100%;padding: 20px;">
+
+
+    <tr>
+      {% for n in data[0] %}
+       <td>{{n}}</td>
+      {% endfor %}
+    </tr> 
+
+     {% for row in data %}
+     <tr>
+       {% for element in data[0] %} 
+         <td> {{row[element]}} </td> 
+        {% endfor %}
+      {% endfor %}
+    </tr>
+
+
+  </table>  
+</body>
+</html>
