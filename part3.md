@@ -42,7 +42,7 @@ please let the staff know so we can allocate resources appropriately.
 
 # Submission
 
-Fill out the [Google submission form](http://goo.gl/forms/SzTVqlCHy4)
+Please leave your virtual machine running so the IP address does not change, then fill out the [Google submission form](http://goo.gl/forms/SzTVqlCHy4)
 
 Students will present to their project mentor between `3/28` and `4/1`.
 The mentors will email you to schedule a 15 minute meeting by `3/21`.
